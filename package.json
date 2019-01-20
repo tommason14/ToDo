@@ -1,0 +1,29 @@
+{
+  "name": "Tom-Mason-personal-site",
+  "version": "0.0.0",
+  "description": "A project including full setup for GulpJS, SASS & BrowserSync",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Mason",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^1.3.7",
+    "gulp": "^3.8.8",
+    "gulp-autoprefixer": "^1.0.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tommason14/jekyll-site.git"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "sass",
+    "browsersync",
+    "jade"
+  ]
+}
